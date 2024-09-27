@@ -5,14 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<html>
-  <header><title>HAMSPHEN</title></header>
-  <BODY>
-    hllo every one
-    <href>logo</href>
-    <href>Abouts</href>
-  </BODY>
-</html>
+- hamsphen is a popular
 <!---
 Hamsphen/Hamsphen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
